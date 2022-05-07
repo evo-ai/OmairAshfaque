@@ -2,7 +2,7 @@
 About me
 <p align="center"><a href="https://zubairashfaque.github.io"><img width="90%" src="images/zubi_ds_3.jpg" /></a></p>
 
-<!-- # Hey! 🙋‍♂️ I'm [ZUBAIR!] '#20c080' (https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque) -->
+<!-- # Hey! 🙋‍♂️ I'm [OMAIR!] '#20c080' (https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque) -->
 
 
 <p align="center">
